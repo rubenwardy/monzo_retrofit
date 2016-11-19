@@ -111,3 +111,20 @@ monzo_authorized.getBalance(account_id).enqueue(new Callback<Balance>() {
 	}
 });
 ```
+
+### Coming Soon (PRs accepted)
+
+* Ping
+* Token refresh
+* Pagination support
+* Retrieve single transaction from id
+* Annotate transaction
+* Create feed item
+* Webhooks
+	* create
+	* list
+	* delete
+* Attachments
+	* upload
+	* register
+	* deregister
