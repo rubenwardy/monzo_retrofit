@@ -6,8 +6,9 @@ Created by rubenwardy
 ## Installation
 
 This library isn't currently on Maven, so you'll need to download a .jar archive
-[from the releases section](https://github.com/rubenwardy/monzo_retrofit/releases) and
-then add the following to the repositories and dependences part of your app's Gradle file:
+[from the releases section](https://github.com/rubenwardy/monzo_retrofit/releases),  
+place it in `libs`, and then add the following to the repositories and dependences
+part of your app's Gradle file:
 
 ```Gradle
 repositories {
